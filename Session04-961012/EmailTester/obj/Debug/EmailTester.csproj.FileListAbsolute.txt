@@ -1,0 +1,7 @@
+D:\Development\Test\Seirafi\Session04-961012\EmailTester\bin\Debug\EmailTester.exe.config
+D:\Development\Test\Seirafi\Session04-961012\EmailTester\bin\Debug\EmailTester.exe
+D:\Development\Test\Seirafi\Session04-961012\EmailTester\bin\Debug\EmailTester.pdb
+D:\Development\Test\Seirafi\Session04-961012\EmailTester\obj\Debug\EmailTester.csprojResolveAssemblyReference.cache
+D:\Development\Test\Seirafi\Session04-961012\EmailTester\obj\Debug\EmailTester.csproj.CoreCompileInputs.cache
+D:\Development\Test\Seirafi\Session04-961012\EmailTester\obj\Debug\EmailTester.exe
+D:\Development\Test\Seirafi\Session04-961012\EmailTester\obj\Debug\EmailTester.pdb
